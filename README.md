@@ -44,12 +44,12 @@
 | 4 | ニューラルネットワーク | XOR を1層で解かせて失敗させ、2層にして解く。ReLU を外すと戻る | [▶](https://youtu.be/mDY-4FA7_dk) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A04_neural_net.ipynb) |
 | 5 | 学習のしくみ | 勾配降下法で谷を下り、発散を目撃する。過学習を再現して対策を測る | [▶](https://youtu.be/QtEN0VBon9Y) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A05_training.ipynb) |
 | 6 | 画像認識 | フィルタを手書き数字に当てる。CNN と MLP を比べ、ずらしへの強さを測る | [▶](https://youtu.be/X4OOk5V_A2s) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A06_cnn.ipynb) |
-| 7 | 埋め込み | 文を384個の数にして近さを測る。否定が見分けられないことを確かめる | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A07_embedding.ipynb) |
-| 8 | Transformer | 144個の注意ヘッドをのぞく。教科書の有名な図の再現を自分で試す | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A08_transformer.ipynb) |
-| 9 | 強化学習 | スロットで探索と活用を比べ、報酬設計を3通り壊してみる | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A09_rl.ipynb) |
-| 10 | 大規模言語モデル | 3サイズの loss を測ってスケーリング則を見る。「創発」を2つの指標で測る | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A10_llm.ipynb) |
-| 11 | プロンプトとRAG | 書き方で答えがどう変わるかを測る。RAG を自分で組んで、限界を見る | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A11_rag.ipynb) |
-| 12 | 画像生成 | 拡散モデルを一から学習させ、生成物が訓練画像の写しかを測る | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A12_diffusion.ipynb) |
+| 7 | 埋め込み | 文を384個の数にして近さを測る。否定が見分けられないことを確かめる | [▶](https://youtu.be/LsGKglcTJxA) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A07_embedding.ipynb) |
+| 8 | Transformer | 144個の注意ヘッドをのぞく。教科書の有名な図の再現を自分で試す | [▶](https://youtu.be/jDI0y79v3nY) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A08_transformer.ipynb) |
+| 9 | 強化学習 | スロットで探索と活用を比べ、報酬設計を3通り壊してみる | [▶](https://youtu.be/Uf8zNy8KfMQ) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A09_rl.ipynb) |
+| 10 | 大規模言語モデル | 3サイズの loss を測ってスケーリング則を見る。「創発」を2つの指標で測る | [▶](https://youtu.be/y2KeVGuf-Dw) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A10_llm.ipynb) |
+| 11 | プロンプトとRAG | 書き方で答えがどう変わるかを測る。RAG を自分で組んで、限界を見る | [▶](https://youtu.be/8HRDX_kGpSM) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A11_rag.ipynb) |
+| 12 | 画像生成 | 拡散モデルを一から学習させ、生成物が訓練画像の写しかを測る | [▶](https://youtu.be/7sQrmV4V4NY) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A12_diffusion.ipynb) |
 | 13 | なぜ間違えるのか | 存在しない国の首都を聞く。何度も聞いて「知らない」を見抜く | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A13_hallucination.ipynb) |
 | 14 | 説明可能性と社会 | 木と森を比べ、3つの重要度を出し、公平さを測って揃えてみる | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A14_fairness.ipynb) |
 | 15 | 総まとめ | 「正解率84.6%」を5つの視点で分解する | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A15_summary.ipynb) |
