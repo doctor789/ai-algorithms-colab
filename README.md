@@ -50,9 +50,9 @@
 | 10 | 大規模言語モデル | 3サイズの loss を測ってスケーリング則を見る。「創発」を2つの指標で測る | [▶](https://youtu.be/y2KeVGuf-Dw) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A10_llm.ipynb) |
 | 11 | プロンプトとRAG | 書き方で答えがどう変わるかを測る。RAG を自分で組んで、限界を見る | [▶](https://youtu.be/8HRDX_kGpSM) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A11_rag.ipynb) |
 | 12 | 画像生成 | 拡散モデルを一から学習させ、生成物が訓練画像の写しかを測る | [▶](https://youtu.be/7sQrmV4V4NY) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A12_diffusion.ipynb) |
-| 13 | なぜ間違えるのか | 存在しない国の首都を聞く。何度も聞いて「知らない」を見抜く | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A13_hallucination.ipynb) |
-| 14 | 説明可能性と社会 | 木と森を比べ、3つの重要度を出し、公平さを測って揃えてみる | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A14_fairness.ipynb) |
-| 15 | 総まとめ | 「正解率84.6%」を5つの視点で分解する | (準備中) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A15_summary.ipynb) |
+| 13 | なぜ間違えるのか | 存在しない国の首都を聞く。何度も聞いて「知らない」を見抜く | [▶](https://youtu.be/iIMMGLcQMJk) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A13_hallucination.ipynb) |
+| 14 | 説明可能性と社会 | 木と森を比べ、3つの重要度を出し、公平さを測って揃えてみる | [▶](https://youtu.be/oLtnj8E9n0c) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A14_fairness.ipynb) |
+| 15 | 総まとめ | 「正解率84.6%」を5つの視点で分解する | [▶](https://youtu.be/Cm4WeLIf0iE) | [開く](https://colab.research.google.com/github/doctor789/ai-algorithms-colab/blob/main/notebooks/A15_summary.ipynb) |
 
 ---
 
